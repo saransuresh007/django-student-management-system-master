@@ -14,4 +14,5 @@ max-args=20
 [main]
 max-branches=20
 
-min-public-methods=5
+min-public-methods=0
+max-public-methods=15
