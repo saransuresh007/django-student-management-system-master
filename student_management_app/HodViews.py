@@ -789,6 +789,3 @@ def staff_profile(request):
 
 def student_profile(requtest):
     pass
-
-
-
